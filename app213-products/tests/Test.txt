@@ -1,0 +1,11 @@
+ ID 1: Iphone13 stock level: 0
+ ID 1: Iphone13 stock level: 0
+ ID 1: Iphone13 stock level: 10
+ ID 1: Iphone13 stock level: 5
+
+ Peacock's Stock List
+ ====================
+
+ ID 1: Iphone13 stock level: 5
+ ID 2: Samsung Galaxy 9 stock level: 0
+
