@@ -1,0 +1,108 @@
+
+ Daro's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 0
+ ID 102: Apple iPhone 12 stock level: 0
+ ID 103: Google Pixel 4A stock level: 0
+ ID 104: Iphone 12 pro stock level: 0
+ ID 105: Samsung Galaxy A50 stock level: 0
+ ID 106: Google Pixel 5 stock level: 0
+ ID 107: Google Pixel 6 stock level: 0
+ ID 108: Samsung Galaxy 1 plus stock level: 0
+ ID 109: Iphone 5 stock level: 0
+ ID 110: Samsung Galaxy Tab stock level: 0
+
+
+ Daro's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 0
+ ID 102: Apple iPhone 12 stock level: 0
+ ID 103: Google Pixel 4A stock level: 0
+ ID 104: Iphone 12 pro stock level: 0
+ ID 105: Samsung Galaxy A50 stock level: 0
+ ID 106: Google Pixel 5 stock level: 0
+ ID 107: Google Pixel 6 stock level: 0
+ ID 108: Samsung Galaxy 1 plus stock level: 0
+ ID 109: Iphone 5 stock level: 0
+ ID 110: Samsung Galaxy Tab stock level: 0
+
+product100not found
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+NOT FOUND
+
+ Daro's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 29
+ ID 102: Apple iPhone 12 stock level: 27
+ ID 103: Google Pixel 4A stock level: 19
+ ID 104: Iphone 12 pro stock level: 25
+ ID 105: Samsung Galaxy A50 stock level: 11
+ ID 106: Google Pixel 5 stock level: 12
+ ID 107: Google Pixel 6 stock level: 22
+ ID 108: Samsung Galaxy 1 plus stock level: 27
+ ID 109: Iphone 5 stock level: 11
+ ID 110: Samsung Galaxy Tab stock level: 37
+
+product100not found
+selling quanitities of stock
+
+selling27101
+selling quanitities of stock
+
+selling21102
+selling quanitities of stock
+
+All stock is sold !!
+selling19103
+selling quanitities of stock
+
+selling3104
+selling quanitities of stock
+
+All stock is sold !!
+selling11105
+selling quanitities of stock
+
+All stock is sold !!
+selling12106
+selling quanitities of stock
+
+All stock is sold !!
+selling22107
+selling quanitities of stock
+
+selling6108
+selling quanitities of stock
+
+All stock is sold !!
+selling11109
+selling quanitities of stock
+
+All stock is sold !!
+selling37110
+
+ Daro's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 2
+ ID 102: Apple iPhone 12 stock level: 6
+ ID 103: Google Pixel 4A stock level: 0
+ ID 104: Iphone 12 pro stock level: 22
+ ID 105: Samsung Galaxy A50 stock level: 0
+ ID 106: Google Pixel 5 stock level: 0
+ ID 107: Google Pixel 6 stock level: 0
+ ID 108: Samsung Galaxy 1 plus stock level: 21
+ ID 109: Iphone 5 stock level: 0
+ ID 110: Samsung Galaxy Tab stock level: 0
+
