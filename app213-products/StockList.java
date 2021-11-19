@@ -46,6 +46,16 @@ public class StockList
      */
     public void buyProduct(int productID, int amount)
     {
+        Product product = findProduct(productID);
+        
+        if (product == null)
+    {
+        
+    }
+    else{
+        product.increaseQuantity(amount);
+        System.out.println("NOT FOUND");
+    }
     }
     
     /**
@@ -54,6 +64,11 @@ public class StockList
      */
     public Product findProduct(int productID)
     {
+        for(Product product : stock)
+    {
+        if(product.getID() == productID)
+        return product;
+    }
         return null;
     }
     
@@ -63,25 +78,39 @@ public class StockList
      * Show the before and after status of the product.
      * @param id The ID of the product being sold.
      */
-    public void sellProduct(int productID)
+    public void sellProduct(int productID, int quantity)
     {
-        Product product = findProduct(productID);
+        System.out.println("selling quanitities of stock\n");
         
-        if(product != null) 
+        Product product = findProduct(productID);
+        int stockQuantity = product.getQuantity();
+        
+        
+        if(product != null)
         {
-            if(product.getQuantity() > 0)
+            if(stockQuantity > 0)
             {
-                product.decreaseQuantity(1);
-                
-                // printout message
+                if(stockQuantity > quantity)
+                { 
+                    product.decreaseQuantity(quantity);
+                    System.out.println("selling" + quantity + "" + product.getID());
+                   
+                }
+                else
+                {
+                    System.out.println("All stock is sold !!");
+                    System.out.println("selling" + stockQuantity + "" + product.getID());
+                    product.decreaseQuantity(stockQuantity);
+                }
             }
-            else
-            {
-                // printout message
-            }
-        }
+      
         else
         {
+            System.out.println("selling none of" + product.getID());
+        }
+    }
+    else
+    {
             // printout message
         }
     }    
@@ -133,7 +162,7 @@ public class StockList
     public void printHeading()
     {
         System.out.println();
-        System.out.println(" Peacock's Stock List");
+        System.out.println(" Daro's Stock List");
         System.out.println(" ====================");
         System.out.println();
     }
